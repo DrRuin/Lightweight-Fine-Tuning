@@ -22,4 +22,4 @@ The dataset consists of two columns:
 - **Predictive Modeling**: We used transformers to train our dataset and make it predict tweets or text by giving certain Emojis suitable for that given text.
 - **Analysis On PEFT**
 
-For a detailed look into the analysis, check out this [Jupyter Notebook](https://github.com/DrRuin/Lightweight-Fine-Tuning/blob/main/LightweightFineTuning.ipynb)
+For a detailed look into the analysis, check out this [Jupyter Notebook](https://nbviewer.org/github/DrRuin/Lightweight-Fine-Tuning/blob/main/Lightweight-Fine-Tuning.ipynb)
